@@ -1,0 +1,12 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "dependencies": {
+    "actions-on-google": "^1.2.0",
+    "bmi-calc": "^2.0.0",
+    "dashbot": "^9.2.0",
+    "firebase-admin": "~4.2.1",
+    "firebase-functions": "^0.5.7"
+  },
+  "private": true
+}
